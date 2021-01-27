@@ -1,0 +1,43 @@
+.app-heading {
+    font-weight: bolder;
+    font-size: 24px; 
+}
+
+.app-title {
+    font-weight: 900;
+    font-size: 40px;  
+}
+
+.info-section {
+    margin-top: 40px; 
+    margin-left: 50px;
+    margin-right: 50px; 
+}
+
+.left-header {
+    display: inline-flex;
+}
+
+.right-header {
+    display: flex; 
+}
+
+.breaking-point {
+    margin-top: 40px; 
+    border-top: 10px solid #FFC170;
+}
+
+.action-button {
+    margin-bottom: 5px; 
+    display: block;
+    background-color:#FFC170; 
+    border-radius: 4px; 
+    border: none; 
+    color: white; 
+    cursor: pointer;
+    width: 140px; 
+    font-size: 12px; 
+    text-decoration: none; 
+    display: inline-block; 
+    padding: 4px; 
+}

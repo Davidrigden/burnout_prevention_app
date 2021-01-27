@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://david:david@cluster0.yolny.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "Team-1"
+  
+}
